@@ -1,2 +1,3 @@
 # Gradient_descents
-Optimalization – finding parameters of linear regression using various algorithms
+## Python / Optimalization 
+### Gradient Descent / Batch Gradient Descent / Stochastic Gradient Descent
